@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yantaz-catalog/static/css/main.dbbaabda.chunk.css",
+    "main.js": "/yantaz-catalog/static/js/main.1b9289e9.chunk.js",
+    "main.js.map": "/yantaz-catalog/static/js/main.1b9289e9.chunk.js.map",
+    "runtime-main.js": "/yantaz-catalog/static/js/runtime-main.66b2ee1f.js",
+    "runtime-main.js.map": "/yantaz-catalog/static/js/runtime-main.66b2ee1f.js.map",
+    "static/js/2.825e10cd.chunk.js": "/yantaz-catalog/static/js/2.825e10cd.chunk.js",
+    "static/js/2.825e10cd.chunk.js.map": "/yantaz-catalog/static/js/2.825e10cd.chunk.js.map",
+    "index.html": "/yantaz-catalog/index.html",
+    "static/css/main.dbbaabda.chunk.css.map": "/yantaz-catalog/static/css/main.dbbaabda.chunk.css.map",
+    "static/js/2.825e10cd.chunk.js.LICENSE.txt": "/yantaz-catalog/static/js/2.825e10cd.chunk.js.LICENSE.txt",
+    "static/media/Recurso 1.d04b29e9.svg": "/yantaz-catalog/static/media/Recurso 1.d04b29e9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66b2ee1f.js",
+    "static/js/2.825e10cd.chunk.js",
+    "static/css/main.dbbaabda.chunk.css",
+    "static/js/main.1b9289e9.chunk.js"
+  ]
+}
